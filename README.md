@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chanpreet007
-- 👀 I’m interested in Machine Learning , Deep Learning and Problem Solving.
+- 👀 I’m interested in Problem Solving,Machine Learning and Deep Learning.
 - 📫 How to reach me channusingh97@gmail.com
 
 <!---
